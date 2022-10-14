@@ -1,1 +1,1 @@
-# study-rust
+# hello-rust
